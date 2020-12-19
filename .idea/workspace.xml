@@ -19,16 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="542e3021-f999-4768-903e-e7389226c3ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/guestbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guestbook.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Comment.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Conference.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Conference.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
-    </list>
+    <list default="true" id="542e3021-f999-4768-903e-e7389226c3ea" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +143,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608402967152</updated>
       <workItem from="1608402968318" duration="1289000" />
-      <workItem from="1608405713093" duration="3052000" />
+      <workItem from="1608405713093" duration="3616000" />
     </task>
     <servers />
   </component>
