@@ -19,7 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="542e3021-f999-4768-903e-e7389226c3ea" name="Default Changelist" comment="" />
+    <list default="true" id="542e3021-f999-4768-903e-e7389226c3ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/conference/show.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/guestbook.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/guestbook.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/ConferenceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ConferenceController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/conference/index.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/templates/conference/index.html.twig" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +128,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
       <path value="$PROJECT_DIR$/vendor/symfony/asset" />
       <path value="$PROJECT_DIR$/vendor/twig/intl-extra" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
     </include_path>
   </component>
   <component name="ProjectId" id="1lt4HfKyzFAKAFGMRtiUuLpRK7L" />
@@ -143,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608402967152</updated>
       <workItem from="1608402968318" duration="1289000" />
-      <workItem from="1608405713093" duration="3616000" />
+      <workItem from="1608405713093" duration="4496000" />
     </task>
     <servers />
   </component>
@@ -160,5 +173,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="459" key="ComposerInitDialogKey" timestamp="1608412086196">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="729" y="459" key="ComposerInitDialogKey/3840.101.1440.900/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1608412086196" />
   </component>
 </project>
